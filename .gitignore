@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# Database files
+accounting.db
+*.db
+*.sqlite
+*.db-journal
+
+# Logs
+*.log
+
+# Debug
+*.pdb
+
+# OS
+*.DS_Store
+Thumbs.db
+
+# Others
+*.local
+
+# Temporary files
+*.tmp
+
